@@ -10,7 +10,7 @@ public class carmovementscript : MonoBehaviour
     private float speedMultiplier = 0f;
     private float accerationTime = 5f;
     private float elapsedTime = 0f;
-    float accelation = 500;
+    float accelation = 5;
     float turningSpeed = 45f;
     Rigidbody rb;
     // Start is called before the first frame update
